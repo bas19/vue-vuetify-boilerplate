@@ -149,7 +149,7 @@
     }),
 
     created () {
-      console.log(this.$store.state.count) // -> 1
+      console.log(this.$store.state.test.count) // -> 1
     }
   }
 </script>
