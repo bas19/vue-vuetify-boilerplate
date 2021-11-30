@@ -1,5 +1,3 @@
-# greenstreet
-
 ## Project setup
 ```
 npm install
